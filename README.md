@@ -5,6 +5,7 @@
 Try the live demo (DeepSeek V3.1 — Terminus) deployed with SGLang and OpenWebUI:
 
 https://webui-ibkynic06.brevlab.com/
+![qr](live-demo.png)
 
 ## Tutorial
 
