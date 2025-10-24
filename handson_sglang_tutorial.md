@@ -56,8 +56,8 @@ Thanks to NVIDIA's sponsorship, you can get access to a free cloud instance.
     ```
 
 ## Step 3: Launch the SGLang Server with the gpt-oss-20b Model
-
-1. In the terminal, run the following command to start an SGLang container (replace the HF token with yours):
+(TO GET A HF_TOKEN, follow here: https://huggingface.co/docs/hub/en/security-tokens)
+1. In the terminal, run the following command to start an SGLang container **(replace the HF token with yours)**:
     ```bash
     docker run -itd --gpus all \
     --shm-size 32g \
