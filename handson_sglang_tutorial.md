@@ -40,7 +40,7 @@ Thanks to NVIDIA's sponsorship, you can get access to a free cloud instance.
 ## Step 2: Set Up the SGLang Docker Image
 
 1. Click "Open Notebook". This will open a new tab in your browser with a JupyterLab interface. Open a terminal in JupyterLab.
-    <!-- ![open terminal](open_terminal.png) -->
+    ![open terminal](open_terminal.png)
 
 2. In the terminal, run the following command to verify that the GPU is available:
     ```bash
