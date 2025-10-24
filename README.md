@@ -1,9 +1,13 @@
 # handson_tutorial
 
-## Pre-deployed `deepseek-ai/DeepSeek-V3.1-Terminus` api endpoint:
-I have deployed one api endpoint using SGLang, with OpenWebUI as the frontend. You can try it at here:
- https://webui-ibkynic06.brevlab.com/
+## Demo (pre-deployed)
 
-## Hands on tutorial guide:
+Try the live demo (DeepSeek V3.1 — Terminus) deployed with SGLang and OpenWebUI:
+
+https://webui-ibkynic06.brevlab.com/
+
+## Tutorial
+
+Follow the step-by-step guide in the repository:
 
 See [handson_sglang_tutorial.md](handson_sglang_tutorial.md)
