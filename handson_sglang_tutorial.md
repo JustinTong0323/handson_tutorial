@@ -149,5 +149,3 @@ To demonstrate the agentic capabilities of SGLang, we will use [qwen-code](https
     For example, type `/init` to let the qwen-code analyze the current directory. You can see several tools are called.
     ![qwen-code-init](qwen_code_init.png)
 
-## Advanced Topic: Using speculative decoding with SGLang
-
