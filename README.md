@@ -1,4 +1,4 @@
-# handson_tutorial
+# SGLang hands-on tutorial
 
 ## Demo (pre-deployed)
 
