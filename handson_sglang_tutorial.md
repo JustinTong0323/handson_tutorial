@@ -54,7 +54,7 @@ Congratulations! You now have your cloud instance ready.
     ```
 
 ## Third Step: Launching sglang server with gpt-oss-20b model
-1. In the terminal, run the following command to start a sglang container:
+1. In the terminal, run the following command to start a sglang container (replace the hf token with yours):
     ```bash
     docker run -itd --gpus all \
     --shm-size 32g \
